@@ -5,7 +5,7 @@
 
 - 💬 A propos de moi **J'ai 22 ans je m'appel Lenny et je souhaite développer mes compétence de développeur web.**
 
-- 📄 Mon parcours [Diplômé d'un DUT informatique (2 ans) en 2021](Diplômé d'un DUT informatique (2 ans) en 2021)
+- 📄 Mon parcours Diplômé d'un DUT informatique (2 ans) en 2021.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
