@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, je suis Lenny Besson</h1>
 <h3 align="center">Apprentie développeur web</h3>
 
-- 👨‍💻 Mes projets [Actuellement en train de travailler sur la conception d'un jeu idle basique, à l'aide d'un ami](Actuellement en train de travailler sur la conception d'un jeu idle basique, à l'aide d'un ami)
+- 👨‍💻 Mes projets : Actuellement en train de travailler sur la conception d'un jeu idle basique, à l'aide d'un ami.
 
 - 💬 A propos de moi **J'ai 22 ans je m'appel Lenny et je souhaite développer mes compétence de développeur web.**
 
