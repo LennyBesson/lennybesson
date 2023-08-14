@@ -5,10 +5,12 @@
 
 - 💬 A propos de moi **J'ai 22 ans je m'appel Lenny et je souhaite développer mes compétence de développeur web.**
 
-- 📄 Mon parcours Diplômé d'un DUT informatique (2 ans) en 2021.
+- 📄 Mon parcours : Diplômé d'un DUT informatique (2 ans) en 2021.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/lenny besson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lenny besson" height="30" width="40" /></a>
+<a href="https://instagram.com/lenny_bsn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lenny_bsn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
