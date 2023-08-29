@@ -3,7 +3,7 @@
 
 - 👨‍💻 Mes projets : Actuellement en train de travailler sur la conception d'un jeu idle basique, à l'aide d'un ami.
 
-- 💬 A propos de moi **J'ai 22 ans je m'appel Lenny et je souhaite développer mes compétence de développeur web.**
+- 💬 A propos de moi **J'ai 23 ans je m'appel Lenny et je souhaite développer mes compétence de développeur web.**
 
 - 📄 Mon parcours : Diplômé d'un DUT informatique (2 ans) en 2021.
 
